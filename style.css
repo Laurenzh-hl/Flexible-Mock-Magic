@@ -92,3 +92,16 @@ nav {
 .nav-links {
     display: flex;
 }
+
+.flex-main {
+    display: flex;
+}
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;   
+}
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+}
